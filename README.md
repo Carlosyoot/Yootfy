@@ -19,7 +19,7 @@ Yootfy é um aplicativo que centraliza todos os downloads, como músicas e víde
 
 Yootfy foi criado para simplificar o processo de download de arquivos de mídia, oferecendo uma interface limpa e intuitiva. Ele permite que você baixe músicas, vídeos e outros conteúdos multimídia diretamente de várias plataformas.
 
-![Logo Yootfy](./imagens/logo.png)
+![Logo Yootfy](./imagens/icon.png)
 
 ---
 
@@ -82,26 +82,11 @@ Contribuições são sempre bem-vindas! Para contribuir:
 
 Este projeto está licenciado sob a [MIT License](LICENSE).
 
----
 
-## Imagens e ícones
-
-### Logo
-
-![Logo Yootfy](./imagens/logo.png)
-
-### Ícones
-
-Aqui estão alguns ícones que você pode usar:
-
-- ![Ícone de Download](./imagens/download-icon.png)
-- ![Ícone de Música](./imagens/music-icon.png)
-
----
 
 ## Links
 
-- [Site oficial](https://www.yootfy.com)
-- [Documentação](https://www.yootfy.com/docs)
-- [Contribuições](https://github.com/seu-usuario/yootfy/pulls)
+> **Observação:**- [Site oficial](https://www.yootfy.com)
+> **Observação:**- [Documentação](https://www.yootfy.com/docs)
+> **Observação:**- [Contribuições](https://github.com/seu-usuario/yootfy/pulls)
 
