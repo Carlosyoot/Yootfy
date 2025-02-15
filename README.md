@@ -37,7 +37,8 @@ Yootfy foi criado para simplificar o processo de download de arquivos de mídia,
 1. Saiba seu sistema operacional:
 
 
-2. Instale as dependências:
+2. Baixe a versão mais recente:
+  (https://github.com/Carlosyoot/Yootfy/releases/download/Yootfy1.0.1/)
 
 
 3. Execute o aplicativo:
