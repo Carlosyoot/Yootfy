@@ -38,7 +38,7 @@ Yootfy foi criado para simplificar o processo de download de arquivos de mídia,
 
 
 2. Baixe a versão mais recente:
-- [https://github.com/Carlosyoot/Yootfy/releases/download/Yootfy1.0.2/](https://github.com/Carlosyoot/Yootfy/releases/tag/Yootfy1.0.2)
+- [https://github.com/Carlosyoot/Yootfy/releases/download/Yootfy1.0.2/](https://github.com/Carlosyoot/Yootfy/releases/tag/Yootfy-Bug-Fix)
 
 
 3. Execute o aplicativo:
