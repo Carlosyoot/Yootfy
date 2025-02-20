@@ -66,9 +66,16 @@ Atualmente, o Yootfy é compatível com os seguintes serviços de streaming e v�
 
 - YouTube
 - YouTube Music
-- Spotify
 
 > **Observação:** O aplicativo está em constante atualização, e mais plataformas serão adicionadas em versões futuras.
+
+![Logo Yootfy](./images/Image1.PNG)
+![Logo Yootfy](./images/Image2.PNG)
+![Logo Yootfy](./images/image3.PNG)
+![Logo Yootfy](./images/Image4.PNG)
+![Logo Yootfy](./images/IMAGE6.jpg)
+![Logo Yootfy](./images/image5.PNG)
+
 ## Contribuindo
 
 Contribuições são sempre bem-vindas! Para contribuir:
