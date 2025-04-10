@@ -2,7 +2,7 @@
 
 Yootfy é um aplicativo que centraliza todos os downloads, como músicas e vídeos. Ele permite que os usuários façam download de conteúdo de diversas plataformas de maneira fácil e rápida.
 
-Versão: 1.0.3
+Versão: 1.0.4
 
 ## Patch de correção
 
